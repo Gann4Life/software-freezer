@@ -62,6 +62,24 @@
             "description": "No description",
             "executablePath": "C:\\Users\\mrgann\\Downloads\\safedata\\OperaGXSetup.exe",
             "filename": "OperaGXSetup.exe"
+        },
+        {
+            "status": "PENDING",
+            "url": "https://download.virtualbox.org/virtualbox/7.0.6/VirtualBox-7.0.6-155176-Win.exe",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "VirtualBox",
+            "description": "No description",
+            "executablePath": null,
+            "filename": "NotDownloaded.txt"
+        },
+        {
+            "status": "PENDING",
+            "url": "https://download.virtualbox.org/virtualbox/7.0.6/Oracle_VM_VirtualBox_Extension_Pack-7.0.6a-155176.vbox-extpack",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "VirtualBox Extension Pack",
+            "description": "No description",
+            "executablePath": null,
+            "filename": "NotDownloaded.txt"
         }
     ]
 }
