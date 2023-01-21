@@ -44,6 +44,15 @@
             "description": "No description",
             "executablePath": "C:\\Users\\mrgann\\Downloads\\safedata\\UnityHubSetup.exe",
             "filename": "UnityHubSetup.exe"
+        },
+        {
+            "status": "PENDING",
+            "url": "https://emsfs.autodesk.com/utility/adskapp/landing/files/AdskappBootstrap/Autodesk_Desktop_App_Bootstrap.exe",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Autodesk Desktop App",
+            "description": "No description",
+            "executablePath": null,
+            "filename": "NotDownloaded.txt"
         }
     ]
 }
