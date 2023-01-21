@@ -46,13 +46,22 @@
             "filename": "UnityHubSetup.exe"
         },
         {
-            "status": "PENDING",
+            "status": "DOWNLOADED",
             "url": "https://emsfs.autodesk.com/utility/adskapp/landing/files/AdskappBootstrap/Autodesk_Desktop_App_Bootstrap.exe",
             "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
             "name": "Autodesk Desktop App",
             "description": "No description",
-            "executablePath": null,
-            "filename": "NotDownloaded.txt"
+            "executablePath": "C:\\Users\\mrgann\\Downloads\\safedata\\Autodesk_Desktop_App_Bootstrap.exe",
+            "filename": "Autodesk_Desktop_App_Bootstrap.exe"
+        },
+        {
+            "status": "DOWNLOADED",
+            "url": "https://net.geo.opera.com/opera_gx/stable/windows?utm_tryagain=yes&utm_source=google&utm_medium=pa&utm_campaign=OGX_LATAM_Search_ES_T1_Brand_V2&&utm_id=Cj0KCQiAt66eBhCnARIsAKf3ZNFwxWlSuQrmIwVNJwibdvwkJXMJ-fpqJPRre8jtzz8RQo9lM-7e290aAsqvEALw_wcB&http_referrer=https%3A%2F%2Fwww.google.com%2F&utm_site=opera_com&&utm_lastpage=opera.com/gx&dl_token=31784223",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "OperaGX",
+            "description": "No description",
+            "executablePath": "C:\\Users\\mrgann\\Downloads\\safedata\\OperaGXSetup.exe",
+            "filename": "OperaGXSetup.exe"
         }
     ]
 }
