@@ -80,6 +80,42 @@
             "description": "No description",
             "executablePath": null,
             "filename": "NotDownloaded.txt"
+        },
+        {
+            "status": "PENDING",
+            "url": "https://cdn.cascadeur.com/builds/windows/59/cascadeur_2022.3.1.exe",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Cascadeur",
+            "description": "No description",
+            "executablePath": null,
+            "filename": "NotDownloaded.txt"
+        },
+        {
+            "status": "PENDING",
+            "url": "https://vd.clipstudio.net/clipcontent/paint/app/1131/CSP_1131w_setup.exe",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Clip Studio Paint",
+            "description": "No description",
+            "executablePath": null,
+            "filename": "NotDownloaded.txt"
+        },
+        {
+            "status": "PENDING",
+            "url": "https://download.kde.org/stable/krita/5.1.5/krita-x64-5.1.5-setup.exe",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Krita",
+            "description": "No description",
+            "executablePath": null,
+            "filename": "NotDownloaded.txt"
+        },
+        {
+            "status": "PENDING",
+            "url": "https://desktop-release.notion-static.com/Notion%20Setup%202.0.39.exe",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Notion",
+            "description": "No description",
+            "executablePath": null,
+            "filename": "NotDownloaded.txt"
         }
     ]
 }
