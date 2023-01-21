@@ -1,0 +1,49 @@
+{
+    "programs": [
+        {
+            "status": "DOWNLOADED",
+            "url": "https://download-cdn.jetbrains.com/toolbox/jetbrains-toolbox-1.27.2.13801.exe",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Jetbrains Toolbox",
+            "description": "No description",
+            "executablePath": "C:\\Users\\mrgann\\Downloads\\safedata\\jetbrains-toolbox-1.27.2.13801.exe",
+            "filename": "jetbrains-toolbox-1.27.2.13801.exe"
+        },
+        {
+            "status": "ERROR",
+            "url": "https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9010/DiscordSetup.exe",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Discord",
+            "description": "Managing communities and gaming",
+            "executablePath": null,
+            "filename": "NotDownloaded.txt"
+        },
+        {
+            "status": "DOWNLOADED",
+            "url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Steam",
+            "description": "Gaming",
+            "executablePath": "C:\\Users\\mrgann\\Downloads\\safedata\\SteamSetup.exe",
+            "filename": "SteamSetup.exe"
+        },
+        {
+            "status": "DOWNLOADED",
+            "url": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Epic Games",
+            "description": "Mostly Fortnite and claiming free games",
+            "executablePath": "C:\\Users\\mrgann\\Downloads\\safedata\\EpicGamesLauncherInstaller.msi",
+            "filename": "EpicGamesLauncherInstaller.msi"
+        },
+        {
+            "status": "DOWNLOADED",
+            "url": "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe?_ga=2.261696452.836842942.1674290088-1449106172.1663339179&_gac=1.195742558.1672273316.CjwKCAiA76-dBhByEiwAA0_s9W-DNHChcHiv01IPRwDuY-yT4y6zjigSW9lof0YmPeJsU7gIHWFPhRoCKlAQAvD_BwE",
+            "downloadPath": "C:\\Users\\mrgann\\Downloads\\safedata",
+            "name": "Unity Hub",
+            "description": "No description",
+            "executablePath": "C:\\Users\\mrgann\\Downloads\\safedata\\UnityHubSetup.exe",
+            "filename": "UnityHubSetup.exe"
+        }
+    ]
+}
