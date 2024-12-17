@@ -5,6 +5,7 @@ Here is what I currently use (at the time I'm writing this, 24/09/2024):
 Windows:
 * winget
 * UniGetUI
+
 Linux:
 * nala (apt front-end) for Debian
 * dnf for Fedora
